@@ -1,0 +1,6 @@
+{
+  "name": "EchoVault",
+  "description": "Unlimited AI voice recording, transcription, structured analysis, and studio voice synthesis.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
